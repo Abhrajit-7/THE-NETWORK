@@ -1,5 +1,5 @@
-# flutter_app
+# THE_NETWORK
 
-A new Flutter application.
+Please find the code of the flutter application.
 
 
